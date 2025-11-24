@@ -1,0 +1,1 @@
+This folder contains Milestone 1 deliverables. Replace sample_input.jpg with your test image.
